@@ -7,7 +7,7 @@
 提交PR就可以 [贡献操作 pull request](https://gist.github.com/zxhfighter/62847a087a2a8031fbdf)
 
 # 965,955公司白名单
-
+ +爱尔眼科集团 -湖南极视互联公司
 
 # 996公司黑名单
 
